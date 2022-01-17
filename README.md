@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=xxFLORII&hide=shell)
+
+![IMAGE#002](https://github-readme-stats.vercel.app/api?username=xxFLORII&hide=prs&count_private=true&show_icons=true)
+
+
+
+[![Github Follow](https://img.shields.io/github/followers/xxFLORII?label=Follow&style=social)](https://github.com/xxFLORII)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xxFLORII?label=Follow&style=social)](https://twitter.com/xxFLORII)
+<a href="https://stimomc.com/go/discord/"><img src="https://discordapp.com/api/guilds/878184524838760490/embed.png" alt="Discord server"/></a>
+
 <!--
 **xxFLORII/xxFLORII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
